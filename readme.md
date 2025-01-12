@@ -1,0 +1,11 @@
+# Packages:
+- npm init
+- npm i express
+- npm i dotenv
+- npm i cors
+- npm i mongoose
+- npm i bcrypt
+- npm i jsonwebtoken
+- cookie-parser
+- express-fileupload
+- validator
